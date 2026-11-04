@@ -1,6 +1,9 @@
 # Task Radar: overview
 
 > **Source code is private.** This repository describes the system's logic and architecture.
+>
+> 🕶️ *"Task Radar" is a codename. The platform it watches stays unnamed, the same way
+> you don't tell the fish which lake you fish in.*
 
 **A monitor that watches an online work platform for newly published paid tasks and alerts within
 seconds, because the best-paid tasks are often taken within minutes. Built to run unattended for weeks.**
